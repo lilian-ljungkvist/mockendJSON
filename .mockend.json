@@ -5,8 +5,9 @@
         "3 bed flat for sale"
       ]
     },
-    "imgUrls": {
-      "string": [
+    "imgURLs": {
+       "hasMany":{       
+       "string": [
         "https://lid.zoocdn.com/645/430/6ad88e182533f75fd4f5e4b80cb63c1980199f13.jpg",
         "https://lid.zoocdn.com/u/1024/768/f2937e1c69ec701f77fea63c00ffcbe9e1b52bed.jpg:p",
         "https://lid.zoocdn.com/u/1024/768/252938399d07ec3281bb48af834bacaf7afc2428.jpg:p",
@@ -19,6 +20,7 @@
         "https://lid.zoocdn.com/u/1024/768/c8c5c2b530f3715190b5a37a101b44e4b09eaade.jpg:p",
         "https://lid.zoocdn.com/u/1024/768/6ada9b9f2b82e774f949b64ab877f362cf1ecf07.jpg:p"
       ]
+      }
     },
     "address": {
       "string": [
