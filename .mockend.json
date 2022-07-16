@@ -18,10 +18,10 @@
         "https://lid.zoocdn.com/u/1024/768/6ada9b9f2b82e774f949b64ab877f362cf1ecf07.jpg:p"
       ]
     },
-    "Address": {
+    "address": {
       "string": "Marylee Way, London SE11"
     },
-    "Ammenities": {
+    "ammenities": {
       "int": {
         "beds": 3,
         "baths": 1,
