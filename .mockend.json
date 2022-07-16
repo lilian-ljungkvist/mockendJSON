@@ -26,8 +26,13 @@
       ]
     },
     "ammenities": {
-      "int": {
-        "reception": 1
+        "receptions": { [1]
+      }
+      
+        "beds": { [3]
+      }
+      
+        "baths": { "int":[1]
       }
     },
     "price": {
