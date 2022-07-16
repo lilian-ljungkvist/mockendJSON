@@ -21,11 +21,9 @@
        "Marylee Way, London SE11"
     },
     "ammenities": {
-       {
         "beds": 3,
         "baths": 1,
         "reception": 1
-      }
     },
     "price": {
       455000
