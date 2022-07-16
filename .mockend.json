@@ -25,7 +25,7 @@
         "Marylee Way, London SE11"
       ]
     },
-    "ammenities": {
+
       "receptions": {
         "int": [
           1
@@ -40,8 +40,7 @@
         "int": [
           1
         ]
-      }
-    },
+      },
     "price": {
       "int": [
         455000
