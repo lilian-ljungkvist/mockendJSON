@@ -22,29 +22,36 @@
     },
     "address": {
       "string": [
-        "Marylee Way, London SE11"
+        "Marylee Way, London SE11",
+        "70 Temple Way, Winterley",
+        "31 Sea Road, Langlee",
+        "85 Middlewich Road, Flansham"
       ]
     },
 
       "receptions": {
-        "int": [
-          1
-        ]
+       "int": {
+         "min": 0,
+         "max": 3 
+       } 
       },
       "beds": {
-        "int": [
-          3
-        ]
+        "int": {
+          "min": 0,
+          "max": 8
+        } 
       },
       "baths": {
-        "int": [
-          1
-        ]
+        "int": {
+          "min": 1,
+          "max": 4
+        } 
       },
     "price": {
-      "int": [
-        455000
-      ]
+       "int": {
+          "min": 30000,
+          "max": 100000000
+        } 
     }
   }
 }
