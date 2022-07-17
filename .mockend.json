@@ -1,8 +1,9 @@
 {
   "Listing": {
-    "name": {
+    "propertyType": {
       "string": [
-        "3 bed flat for sale"
+        "flat",
+        "house",
       ]
     },
     "imgURLs": {     
